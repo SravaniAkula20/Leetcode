@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/SravaniAkula20/Leetcode/tree/master/0372-super-pow) |
+| [1922-count-good-numbers](https://github.com/SravaniAkula20/Leetcode/tree/master/1922-count-good-numbers) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0372-super-pow](https://github.com/SravaniAkula20/Leetcode/tree/master/0372-super-pow) |
+## Recursion
+|  |
+| ------- |
+| [1922-count-good-numbers](https://github.com/SravaniAkula20/Leetcode/tree/master/1922-count-good-numbers) |
 <!---LeetCode Topics End-->
