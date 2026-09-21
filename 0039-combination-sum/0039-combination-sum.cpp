@@ -1,16 +1,20 @@
 class Solution {
 public:
     void generate(vector<int>& nums, int target,vector<vector<int>>&result,vector<int>&ans,int i,int n){
-               if(i==n&&target==0){
+               
+              // if(i==n)return ;
+               if (target==0) {
                 result.push_back(ans);
+                return;
+                }
+               if(target<0||i==n)return ;
+               for(int j = i; j<n;j++){
+                if(nums[j]<=target){
+                    ans.push_back(nums[j]);
+                    generate(nums,target-nums[j],result,ans,j,n);
+                    ans.pop_back();
+                }
                }
-               if(i==n)return ;
-               if(nums[i]<=target){
-                ans.push_back(nums[i]);
-                generate(nums,target-nums[i],result,ans,i,n);
-                ans.pop_back();
-               }
-            generate(nums,target,result,ans,i+1,n);
 
  }
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
