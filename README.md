@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SravaniAkula20/Leetcode/tree/master/0046-permutations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SravaniAkula20/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
@@ -41,5 +42,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0039-combination-sum) |
+| [0040-combination-sum-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SravaniAkula20/Leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
