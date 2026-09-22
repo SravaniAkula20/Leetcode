@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0051-n-queens](https://github.com/SravaniAkula20/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0090-subsets-ii) |
+| [0216-combination-sum-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0216-combination-sum-iii) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SravaniAkula20/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0090-subsets-ii) |
 | [0131-palindrome-partitioning](https://github.com/SravaniAkula20/Leetcode/tree/master/0131-palindrome-partitioning) |
+| [0216-combination-sum-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0216-combination-sum-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
