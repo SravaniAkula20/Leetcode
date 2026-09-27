@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0090-subsets-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0090-subsets-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SravaniAkula20/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/SravaniAkula20/Leetcode/tree/master/0162-find-peak-element) |
 | [0216-combination-sum-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0216-combination-sum-iii) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SravaniAkula20/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -120,4 +121,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/SravaniAkula20/Leetcode/tree/master/0035-search-insert-position) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SravaniAkula20/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
+| [0162-find-peak-element](https://github.com/SravaniAkula20/Leetcode/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
