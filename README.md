@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/SravaniAkula20/Leetcode/tree/master/0162-find-peak-element) |
 | [0198-house-robber](https://github.com/SravaniAkula20/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0216-combination-sum-iii) |
+| [0746-min-cost-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SravaniAkula20/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SravaniAkula20/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0131-palindrome-partitioning](https://github.com/SravaniAkula20/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SravaniAkula20/Leetcode/tree/master/0198-house-robber) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniAkula20/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [0746-min-cost-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 ## Depth-First Search
 |  |
 | ------- |
