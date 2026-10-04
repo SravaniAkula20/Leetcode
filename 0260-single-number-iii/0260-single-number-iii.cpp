@@ -1,31 +1,28 @@
 class Solution {
 public:
     vector<int> singleNumber(vector<int>& nums) {
-        long long res=0;
-        for(int i=0;i<nums.size();i++){
-            res=res^nums[i];
+        long long  sum1=0;
+        for(int x : nums){
+            sum1^=x;
         }
-        long long k=0;
-        long long x=1;
-        while(true){
-            if((res&x)>0){
-                break;
-            }
-            k++;
-            x=x<<1;
-        }
-        int res1=0,res2=0;
+        //int k = 0;
+        long long  x = 1;
+        // while(sum1>0){
+        //     if(sum1&x)break;
+        //    // k++;
+        //     x=x<<1;
+        // }
+        while((sum1 & x) == 0){
+         x<<= 1;
+       }
+       // vector<int>num1,num2;
+       long long a =0,b=0;
         for(int i=0;i<nums.size();i++){
-            if((nums[i]&x)>0){
-                res1=res1^nums[i];
-            }
+            if(nums[i]&x)a^=nums[i];
             else{
-                res2=res2^nums[i];
+                b^=nums[i];
             }
         }
-        vector<int>ans;
-        ans.push_back(res1);
-        ans.push_back(res2);
-        return ans;
+        return {int(a),int(b)};
     }
 };
