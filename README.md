@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0216-combination-sum-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0260-single-number-iii) |
 | [0746-min-cost-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SravaniAkula20/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SravaniAkula20/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [3483-unique-3-digit-even-numbers](https://github.com/SravaniAkula20/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 ## Enumeration
 |  |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
 |  |
