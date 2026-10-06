@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/SravaniAkula20/Leetcode/tree/master/0198-house-robber) |
 | [0216-combination-sum-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0216-combination-sum-iii) |
 | [0260-single-number-iii](https://github.com/SravaniAkula20/Leetcode/tree/master/0260-single-number-iii) |
+| [0289-game-of-life](https://github.com/SravaniAkula20/Leetcode/tree/master/0289-game-of-life) |
 | [0746-min-cost-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SravaniAkula20/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/SravaniAkula20/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
+| [0289-game-of-life](https://github.com/SravaniAkula20/Leetcode/tree/master/0289-game-of-life) |
 ## Algorithm X
 |  |
 | ------- |
@@ -122,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0289-game-of-life](https://github.com/SravaniAkula20/Leetcode/tree/master/0289-game-of-life) |
 | [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
 ## Memoization
