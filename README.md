@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SravaniAkula20/Leetcode/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniAkula20/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0372-super-pow](https://github.com/SravaniAkula20/Leetcode/tree/master/0372-super-pow) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/SravaniAkula20/Leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0047-permutations-ii) |
+| [0048-rotate-image](https://github.com/SravaniAkula20/Leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/SravaniAkula20/Leetcode/tree/master/0051-n-queens) |
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0090-subsets-ii) |
@@ -101,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/SravaniAkula20/Leetcode/tree/master/0048-rotate-image) |
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 ## Algorithm X
 |  |
