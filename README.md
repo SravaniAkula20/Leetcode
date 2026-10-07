@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/SravaniAkula20/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniAkula20/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SravaniAkula20/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/SravaniAkula20/Leetcode/tree/master/0289-game-of-life) |
 | [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
+| [2120-execution-of-all-suffix-instructions-staying-in-a-grid](https://github.com/SravaniAkula20/Leetcode/tree/master/2120-execution-of-all-suffix-instructions-staying-in-a-grid) |
 ## Memoization
 |  |
 | ------- |
