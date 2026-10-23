@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/SravaniAkula20/Leetcode/tree/master/0289-game-of-life) |
 | [0746-min-cost-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
 | [0874-walking-robot-simulation](https://github.com/SravaniAkula20/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [0931-minimum-falling-path-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/SravaniAkula20/Leetcode/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1552-magnetic-force-between-two-balls](https://github.com/SravaniAkula20/Leetcode/tree/master/1552-magnetic-force-between-two-balls) |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/SravaniAkula20/Leetcode/tree/master/1823-find-the-winner-of-the-circular-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniAkula20/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0509-fibonacci-number](https://github.com/SravaniAkula20/Leetcode/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0746-min-cost-climbing-stairs) |
+| [0931-minimum-falling-path-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 | [0289-game-of-life](https://github.com/SravaniAkula20/Leetcode/tree/master/0289-game-of-life) |
+| [0931-minimum-falling-path-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 ## Algorithm X
 |  |
 | ------- |
