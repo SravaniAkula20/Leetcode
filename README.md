@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SravaniAkula20/Leetcode/tree/master/0048-rotate-image) |
+| [0062-unique-paths](https://github.com/SravaniAkula20/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0241-different-ways-to-add-parentheses](https://github.com/SravaniAkula20/Leetcode/tree/master/0241-different-ways-to-add-parentheses) |
 | [0372-super-pow](https://github.com/SravaniAkula20/Leetcode/tree/master/0372-super-pow) |
@@ -97,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0062-unique-paths](https://github.com/SravaniAkula20/Leetcode/tree/master/0062-unique-paths) |
 | [0070-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0070-climbing-stairs) |
 | [0131-palindrome-partitioning](https://github.com/SravaniAkula20/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SravaniAkula20/Leetcode/tree/master/0198-house-robber) |
@@ -160,4 +162,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SravaniAkula20/Leetcode/tree/master/0020-valid-parentheses) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/SravaniAkula20/Leetcode/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
