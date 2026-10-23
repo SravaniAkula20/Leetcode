@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0079-word-search](https://github.com/SravaniAkula20/Leetcode/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0090-subsets-ii) |
+| [0120-triangle](https://github.com/SravaniAkula20/Leetcode/tree/master/0120-triangle) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/SravaniAkula20/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/SravaniAkula20/Leetcode/tree/master/0162-find-peak-element) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0063-unique-paths-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/SravaniAkula20/Leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/SravaniAkula20/Leetcode/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/SravaniAkula20/Leetcode/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/SravaniAkula20/Leetcode/tree/master/0131-palindrome-partitioning) |
 | [0198-house-robber](https://github.com/SravaniAkula20/Leetcode/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/SravaniAkula20/Leetcode/tree/master/0213-house-robber-ii) |
